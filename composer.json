@@ -1,0 +1,10 @@
+{
+  "name": "redegal/devmodules",
+  "description": "Development modules for Magento 2",
+  "license": "propietary",
+  "type": "metapackage",
+  "require-dev": {
+    "honl/magento2-templatehints": "0.2.*",
+    "redegal/module-child-theme-frontools": "0.2.*"
+  }
+}
